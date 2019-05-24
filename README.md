@@ -21,7 +21,7 @@ To play it just need:
 ## Running the tests
 It looks like this in action
 
-![GitHub Logo](/images/Hangman.png)
+![](/images/Hangman.png)
 
 ## Built With
 * Javascript
