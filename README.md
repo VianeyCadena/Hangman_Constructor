@@ -21,7 +21,7 @@ To play it just need:
 ## Running the tests
 It looks like this in action
 
-![](/images/Hangman.png)
+![](./images/Hangman.gif)
 
 ## Built With
 * Javascript
