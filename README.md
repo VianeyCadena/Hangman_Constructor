@@ -21,7 +21,11 @@ To play it just need:
 ## Running the tests
 It looks like this in action
 
+<<<<<<< HEAD
 ![](./images/Hangman.gif)
+=======
+![](Hangman.gif)
+>>>>>>> 18bcee4f1aed99d71110f2f18fd7f8c3073fed86
 
 ## Built With
 * Javascript
